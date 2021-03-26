@@ -24,3 +24,7 @@ Open the terminal
 Go to application directory 
 
 Run the command "dotnet run"
+
+To Create a release version of the app please follow the guidelines in below url using VS Code:
+
+https://docs.microsoft.com/en-us/dotnet/core/tutorials/publishing-with-visual-studio-code
